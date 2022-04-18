@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning - Android App Publishing
 - 👯 I’m looking to collaborate on - Anything!
 - 😄 Pronouns: He/Him
+- 📫 How to reach me: nimzshafie@gmail.com
 
 <!--
 **NimaShafie/NimaShafie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
