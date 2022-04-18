@@ -1,7 +1,7 @@
 ### Hi there 👋     https://nimashafie.github.io/
 
 - 🔭 I’m currently working on - Class projects at CSUN
-- (Intro to OS Architecture & Intro to Software Engineering & Concepts of Programming Languages) 
+  (Intro to OS Architecture & Intro to Software Engineering & Concepts of Programming Languages) 
 - 🌱 I’m currently learning - Android App Publishing
 - 👯 I’m looking to collaborate on - Anything!
 - 😄 Pronouns: He/Him
