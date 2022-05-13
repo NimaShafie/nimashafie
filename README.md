@@ -1,5 +1,7 @@
 ### Hi there 👋     (work in progress) https://nimashafie.github.io/
 
+Check out this game my group members and I made for one of our classes: HeroEscape
+
 - 🔭 I’m currently working on - Class projects at CSUN
 <br>(Intro to OS Architecture & Intro to Software Engineering & Concepts of Programming Languages)</br>
 - 🌱 I’m currently learning - Android App Publishing
