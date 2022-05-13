@@ -1,4 +1,4 @@
-### Hi there 👋     https://nimashafie.github.io/
+### Hi there 👋     (work in progress) https://nimashafie.github.io/
 
 - 🔭 I’m currently working on - Class projects at CSUN
 <br>(Intro to OS Architecture & Intro to Software Engineering & Concepts of Programming Languages)</br>
