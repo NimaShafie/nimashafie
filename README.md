@@ -1,6 +1,6 @@
 ### Hi there 👋     (work in progress) https://nimashafie.github.io/
 
-Check out this game my group members and I made for one of our classes: <a href="https://play.google.com/store/apps/details?id=com.TJANA.HeroEscape">HeroEscape</a>
+Check out this game my group members and I made for one of our classes: <a href="https://play.google.com/store/apps/details?id=com.TJANA.HeroEscape" target="_blank">HeroEscape</a>
 
 - 🔭 I’m currently working on - Class projects at CSUN
 <br>(Intro to OS Architecture & Intro to Software Engineering & Concepts of Programming Languages)</br>
