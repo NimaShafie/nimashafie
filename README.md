@@ -4,9 +4,9 @@ Check out this game my group members and I made for one of our classes:
 <a href="https://play.google.com/store/apps/details?id=com.TJANA.HeroEscape" target="_blank">HeroEscape</a>
 
 - 🔭 I’m currently working on - Class projects at CSUN
-<br>(Intro to OS Architecture & Intro to Software Engineering & Concepts of Programming Languages)</br>
-- 🌱 I’m currently learning - Android App Publishing
-- 👯 I’m looking to collaborate on - Anything!
+<br>(Database Design & Computer System Security)</br>
+- 🌱 I’m currently learning - JavaScript & Node.js
+- 👯 I’m looking to collaborate on - Backend Work
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: nimzshafie@gmail.com
 
