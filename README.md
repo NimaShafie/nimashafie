@@ -4,7 +4,7 @@ Check out this game my group members and I made for one of our classes:
 <a href="https://play.google.com/store/apps/details?id=com.TJANA.HeroEscape" target="_blank">HeroEscape</a>
 
 - 🔭 I’m currently working on - Class projects at CSUN
-<br>(Database Design & Computer System Security)</br>
+<br>(Machine Learning, Data Mining (Graduate Course), Software Verification & Validation (Graduate Course), Senior Software Engineering)</br>
 - 🌱 I’m currently learning - JavaScript & Node.js
 - 👯 I’m looking to collaborate on - Backend Work
 - 😄 Pronouns: He/Him
