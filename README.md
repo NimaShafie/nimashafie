@@ -5,7 +5,7 @@ Check out this game my group members and I made for one of our classes:
 
 - 🔭 I’m currently working on - Class projects at CSUN
 <br>(Machine Learning, Data Mining (Graduate Course), Software Verification & Validation (Graduate Course), Senior Software Engineering)</br>
-- 🌱 I’m currently learning - JavaScript & Node.js
+- 🌱 I’m currently learning - Python & PyTest & JUnit
 - 👯 I’m looking to collaborate on - Backend Work
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: nimzshafie@gmail.com
