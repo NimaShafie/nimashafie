@@ -9,7 +9,6 @@
 ### Machine Learning & Data Mining project used to predict national park booking dates: <a href="https://github.com/NimaShafie/NPS-Order-Date-Predictions" target="_blank">NPS Predictions</a>
 
 - 🔭 I’m currently working on - Class projects at CSUN
-<br>(Machine Learning, Data Mining (Graduate Course), Software Verification & Validation (Graduate Course), Senior Software Engineering)</br>
 - 🌱 I’m currently learning - Python & PyTest
 - 👯 I’m looking to collaborate on - Backend/Fullstack Work
 - 😄 Pronouns: He/Him
