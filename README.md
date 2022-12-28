@@ -6,7 +6,7 @@
 
 ### Junior school project - A mobile android game my group members and I made on Unity: <a href="https://play.google.com/store/apps/details?id=com.TJANA.HeroEscape" target="_blank">HeroEscape</a>
 
-### Machine Learning & Data Mining project used to predict national park booking dates: <a href="https://play.google.com/store/apps/details?id=com.TJANA.HeroEscape(https://github.com/NimaShafie/NPS-Order-Date-Predictions)" target="_blank">NPS Predictions</a>
+### Machine Learning & Data Mining project used to predict national park booking dates: <a href="https://github.com/NimaShafie/NPS-Order-Date-Predictions" target="_blank">NPS Predictions</a>
 
 - 🔭 I’m currently working on - Class projects at CSUN
 <br>(Machine Learning, Data Mining (Graduate Course), Software Verification & Validation (Graduate Course), Senior Software Engineering)</br>
