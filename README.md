@@ -1,4 +1,6 @@
-### Hi there 👋     (work in progress) https://nimashafie.github.io/
+### Hi there 👋
+
+## Projects:
 
 Check out this game my group members and I made for one of our classes:
 <a href="https://play.google.com/store/apps/details?id=com.TJANA.HeroEscape" target="_blank">HeroEscape</a>
@@ -14,6 +16,7 @@ Check out this game my group members and I made for one of our classes:
 **NimaShafie/NimaShafie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+(work in progress) https://nimashafie.github.io/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
