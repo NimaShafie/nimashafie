@@ -1,9 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-## Projects:
+### Projects:
 
-Check out this game my group members and I made for one of our classes:
-<a href="https://play.google.com/store/apps/details?id=com.TJANA.HeroEscape" target="_blank">HeroEscape</a>
+### Check out this game my group members and I made for one of our classes:
+### <a href="https://play.google.com/store/apps/details?id=com.TJANA.HeroEscape" target="_blank">HeroEscape</a>
+
+### number two
 
 - 🔭 I’m currently working on - Class projects at CSUN
 <br>(Machine Learning, Data Mining (Graduate Course), Software Verification & Validation (Graduate Course), Senior Software Engineering)</br>
