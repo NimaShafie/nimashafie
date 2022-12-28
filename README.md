@@ -2,7 +2,7 @@
 
 ### Projects:
 
-### Senior school project - 
+### Senior school project - A web-based set of tools and utilities for CSUN students and advisors to effectively plan and explore classes, schedules, professors, and majors provided by the university: <a href="https://github.com/kyeou/CSUN-Dashboard" target="_blank">CSUN-Dashboard</a>
 
 ### Junior school project - A mobile android game my group members and I made on Unity: <a href="https://play.google.com/store/apps/details?id=com.TJANA.HeroEscape" target="_blank">HeroEscape</a>
 
