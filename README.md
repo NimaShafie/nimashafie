@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaShafie&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![](https://visitor-badge.laobi.icu/badge?page_id=NimaShafie.NimaShafie)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NimaShafie&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaShafie&theme=tokyonight)
