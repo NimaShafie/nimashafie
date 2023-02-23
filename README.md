@@ -2,6 +2,7 @@
 
 ### School Project List:
 
+![](https://visitor-badge.laobi.icu/badge?page_id=NimaShafie.NimaShafie)
 ### Senior school project - A web-based app set of tools and utilities for CSUN students and advisors to effectively plan and explore classes, schedules, professors, and majors provided by the university: <a href="https://github.com/kyeou/CSUN-Dashboard" target="_blank">CSUN-Dashboard</a>
 
 ### Senior school project - Machine Learning & Data Mining project used to predict national park booking dates: <a href="https://github.com/NimaShafie/NPS-Order-Date-Predictions" target="_blank">NPS Predictions</a>
@@ -30,6 +31,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=NimaShafie.NimaShafie)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NimaShafie&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaShafie&theme=tokyonight)
