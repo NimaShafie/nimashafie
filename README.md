@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on - Class projects at <a href="https://www.csun.edu/" target="_blank">CSUN</a>
 - 🌱 I’m currently learning - JavaScript (ES6)
-- 👯 I’m looking to collaborate on - Backend/Fullstack Work
+- 👯 I’m looking to collaborate on - Backend/Fullstack Work, Embedded Programming, Game Development
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: nimzshafie@gmail.com
 
