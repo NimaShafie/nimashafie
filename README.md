@@ -7,9 +7,9 @@
 
 ### Junior school project - A mobile android game my group members and I made on Unity: <a href="https://play.google.com/store/apps/details?id=com.TJANA.HeroEscape" target="_blank">HeroEscape</a>
 
-- 🔭 I’m currently working on - Class projects at <a href="https://www.csun.edu/" target="_blank">CSUN</a>
-- 🌱 I’m currently learning - JavaScript (ES6)
-- 👯 I’m looking to collaborate on - Backend/Fullstack Work, Embedded Programming, Game Development
+- 🔭 I’m currently working on - Seeking full time employment as a Software Engineer
+- 🌱 I’m currently learning - TypeScript
+- 👯 I’m looking to collaborate on - Fullstack Work, Embedded Programming, Game Development
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: nimzshafie@gmail.com
 
