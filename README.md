@@ -15,8 +15,6 @@ What I'm currently working on: Full-Stack Project<br>
 - 🔭 I’m currently working on - Seeking full time employment as a Software Engineer
 - 🌱 I’m currently learning - TypeScript
 - 👯 I’m looking to collaborate on - Fullstack Work, Game Development, Embedded Programming,
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: nimzshafie@gmail.com
 
 ![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimaShafie&show_icons=true&theme=onedark)
 
