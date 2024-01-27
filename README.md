@@ -12,7 +12,7 @@ What I'm currently working on: Full-Stack Project<br>
 <!--![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=nodejs-express&theme=onedark)-->
 Game Development: Unreal Engine 5.2.0, C++, BluePrints
 
-- 🔭 I’m currently working on - Seeking full time employment as a Software Engineer
+- 🔭 I’m currently working on - Being a Software Engineer full time, learning Unreal Engine 5 on my off time, and preparing to get my Masters Degree
 - 🌱 I’m currently learning - OSI Model, MERN Stack, Unreal Engine, .NET
 - 👯 I’m looking to collaborate on - Fullstack Work, Game Development, Embedded Programming,
 
