@@ -1,6 +1,9 @@
 ## Hi there 👋
 ### View my portfolio here: https://nimashafie.github.io/
 
+### Masters school project - A web-based application used to identifying mountains that either currently have snow, or are forecasted to have snow. One page React (Next.js) project that emulates a functioning resort booking system: <a href="https://github.com/NimaShafie/snow-mountain-tracker" target="_blank">Snow Mountain Tracker</a>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=snow-mountain-tracker&theme=onedark)
+
 ### Senior school project - A web-based app set of tools and utilities for CSUN students and advisors to effectively plan and explore classes, schedules, professors, and majors provided by the university: <a href="https://github.com/kyeou/CSUN-Dashboard" target="_blank">CSUN-Dashboard</a>
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckjarmon&repo=CSUN-Dashboard&theme=onedark)
 
