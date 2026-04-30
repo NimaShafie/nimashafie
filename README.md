@@ -80,6 +80,7 @@
 
 ## 🚀 Featured Projects
 
+<!-- PINNED-REPOS:START -->
 <div align="center">
   <a href="https://github.com/oxide-sloc/oxide-sloc">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=oxide-sloc&repo=oxide-sloc&theme=tokyonight&hide_border=true" />
@@ -104,7 +105,12 @@
   <a href="https://github.com/NimaShafie/snow-mountain-tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=snow-mountain-tracker&theme=tokyonight&hide_border=true" />
   </a>
+  &nbsp;
+  <a href="https://github.com/NimaShafie/keycard.net">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=keycard.net&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
+<!-- PINNED-REPOS:END -->
 
 ---
 
