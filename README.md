@@ -9,19 +9,13 @@
 <br/>
 
 <div align="center">
-  <a href="https://nimashafie.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-nimashafie.github.io-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
+  <a href="https://nimashafie.github.io/"><img src="https://img.shields.io/badge/Portfolio-nimashafie.github.io-2ea44f?style=flat-square&logo=githubpages&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:nimzshafie@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nimzshafie%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:nimzshafie@gmail.com"><img src="https://img.shields.io/badge/Gmail-nimzshafie%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/nimashafie/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nima%20Shafie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/nimashafie/"><img src="https://img.shields.io/badge/LinkedIn-Nima%20Shafie-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=NimaShafie&style=for-the-badge&color=58a6ff&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=NimaShafie&style=flat-square&color=58a6ff&label=Profile+Views" />
 </div>
 
 ---
@@ -87,23 +81,30 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/NimaShafie/snow-mountain-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=snow-mountain-tracker&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/oxide-sloc/oxide-sloc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oxide-sloc&repo=oxide-sloc&theme=tokyonight&hide_border=true" />
   </a>
   &nbsp;
-  <a href="https://github.com/NimaShafie/NPS-Order-Date-Predictions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=NPS-Order-Date-Predictions&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/airgap-devkit/devkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=airgap-devkit&repo=devkit&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
-<br/>
+<div align="center">
+  <a href="https://github.com/NimaShafie/arch-ai-tect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=arch-ai-tect&theme=tokyonight&hide_border=true" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/NimaShafie/quiz-craft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=quiz-craft&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
-| Project | Description | Stack |
-|---|---|---|
-| [❄️ Snow Mountain Tracker](https://github.com/NimaShafie/snow-mountain-tracker) | Real-time snow forecast tracker with resort booking simulation | Next.js · React · API |
-| [🎓 CSUN Dashboard](https://github.com/kyeou/CSUN-Dashboard) | Class, schedule & professor planning tool for CSUN students | React · Node.js · Python |
-| [🏞️ NPS Predictions](https://github.com/NimaShafie/NPS-Order-Date-Predictions) | ML model predicting national park booking dates | Python · scikit-learn |
-| [🎮 HeroEscape](https://play.google.com/store/apps/details?id=com.TJANA.HeroEscape) | Android mobile game — live on Google Play Store | Unity · C# |
+<div align="center">
+  <a href="https://github.com/NimaShafie/snow-mountain-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=snow-mountain-tracker&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 ---
 
