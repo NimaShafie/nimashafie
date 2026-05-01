@@ -96,14 +96,14 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=arch-ai-tect&theme=tokyonight&hide_border=true" />
   </a>
   &nbsp;
-  <a href="https://github.com/NimaShafie/quiz-craft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=quiz-craft&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/NimaShafie/snow-mountain-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=snow-mountain-tracker&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/NimaShafie/snow-mountain-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=snow-mountain-tracker&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/NimaShafie/quiz-craft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=quiz-craft&theme=tokyonight&hide_border=true" />
   </a>
   &nbsp;
   <a href="https://github.com/NimaShafie/keycard.net">
