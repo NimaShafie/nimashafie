@@ -67,9 +67,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NimaShafie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimaShafie&theme=tokyonight" width="99%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NimaShafie&theme=tokyonight" height="160em" />
   &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaShafie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NimaShafie&theme=tokyonight" height="160em" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NimaShafie&theme=tokyonight&utcOffset=-8" height="160em" />
 </div>
 
 <div align="center">
@@ -81,35 +87,14 @@
 ## 🚀 Featured Projects
 
 <!-- PINNED-REPOS:START -->
-<div align="center">
-  <a href="https://github.com/oxide-sloc/oxide-sloc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oxide-sloc&repo=oxide-sloc&theme=tokyonight&hide_border=true" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/airgap-devkit/devkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=airgap-devkit&repo=devkit&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/NimaShafie/arch-ai-tect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=arch-ai-tect&theme=tokyonight&hide_border=true" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/NimaShafie/quiz-craft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=quiz-craft&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/NimaShafie/snow-mountain-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=snow-mountain-tracker&theme=tokyonight&hide_border=true" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/NimaShafie/keycard.net">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NimaShafie&repo=keycard.net&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+| | Project | Description | Language | Stars |
+|:---:|---|---|:---:|:---:|
+| 🦀 | [oxide-sloc](https://github.com/oxide-sloc/oxide-sloc) | IEEE 1045-1992 SLOC counter — CLI, web UI, HTML/PDF reports, CI/CD | ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white) | ![](https://img.shields.io/github/stars/oxide-sloc/oxide-sloc?style=flat-square&color=gold&labelColor=1a1b27) |
+| 📡 | [devkit](https://github.com/airgap-devkit/devkit) | FastAPI engine & pip package for the airgap-devkit ecosystem | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/airgap-devkit/devkit?style=flat-square&color=gold&labelColor=1a1b27) |
+| 🤖 | [arch-ai-tect](https://github.com/NimaShafie/arch-ai-tect) | AI assistant that generates architecture diagrams & design docs | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/NimaShafie/arch-ai-tect?style=flat-square&color=gold&labelColor=1a1b27) |
+| 🎯 | [quiz-craft](https://github.com/NimaShafie/quiz-craft) | Web-based AI quiz generator powered by Ollama LLM | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/NimaShafie/quiz-craft?style=flat-square&color=gold&labelColor=1a1b27) |
+| ❄️ | [snow-mountain-tracker](https://github.com/NimaShafie/snow-mountain-tracker) | Real-time snow forecast tracker with resort booking simulation | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![](https://img.shields.io/github/stars/NimaShafie/snow-mountain-tracker?style=flat-square&color=gold&labelColor=1a1b27) |
+| 🏨 | [keycard.net](https://github.com/NimaShafie/keycard.net) | Cross-platform hotel management system — desktop, web & backend | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | ![](https://img.shields.io/github/stars/NimaShafie/keycard.net?style=flat-square&color=gold&labelColor=1a1b27) |
 <!-- PINNED-REPOS:END -->
 
 ---
