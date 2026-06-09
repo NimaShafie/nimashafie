@@ -11,8 +11,6 @@
 <div align="center">
   <a href="https://nimashafie.github.io/"><img src="https://img.shields.io/badge/Portfolio-nimashafie.github.io-2ea44f?style=flat-square&logo=githubpages&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:nimzshafie@gmail.com"><img src="https://img.shields.io/badge/Gmail-nimzshafie%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/nimashafie/"><img src="https://img.shields.io/badge/LinkedIn-Nima%20Shafie-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=NimaShafie&style=flat-square&color=58a6ff&label=Profile+Views" />
@@ -24,10 +22,8 @@
 
 ```txt
 🔭  Software Engineer — full-time, shipping production code daily
-🎓  M.S. Software Engineering candidate (part-time)
+🎓  M.S. Software Engineering (part-time)
 🔧  Currently exploring: Embedded Software Development
-🎮  Building games with Unreal Engine & C++
-🤝  Open to collaborate on Game Development projects
 📍  California, USA
 ```
 
